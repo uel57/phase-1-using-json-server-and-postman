@@ -1,0 +1,19 @@
+{
+  "profile": [
+    {
+      "id": 1,
+      "Name": "sam kariuki",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "hobby": "movies",
+      "type": "lightskin"
+    },
+    {
+      "myfavday": "saturday",
+      "genre": "indei rock",
+      "id": 3
+    }
+  ]
+}
